@@ -1,7 +1,7 @@
 API
 ===
 
-.. autosummary::
-   :toctree: generated
-
-   lumache
+.. automodule:: remixqq_python_sdk
+   :members:
+   :undoc-members:
+   :show-inheritance:
