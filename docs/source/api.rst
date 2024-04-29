@@ -6,5 +6,5 @@ API
    :undoc-members:
    :show-inheritance:
 
-   .. autoclass:: App
+   .. autoclass:: app
       :members:
