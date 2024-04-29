@@ -1,10 +1,10 @@
 API
 ===
 
-.. automodule:: RemixQQ_Python_SDK
+.. automodule:: remix_qq_sdk
    :members:
    :undoc-members:
    :show-inheritance:
 
-   .. autoclass:: MyClass
+   .. autoclass:: App
       :members:
