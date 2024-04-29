@@ -34,3 +34,12 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+
+autodoc_default_options = {
+    'member-order': 'bysource',  # 成员按源代码顺序排序
+    'special-members': '__init__',  # 包含特殊成员，如构造函数
+    'exclude-members': '__weakref__',  # 排除特定的成员，这里排除了weakref
+    'undoc-members': True,  # 包括未明确标记文档的成员
+    'show-inheritance': True,  # 显示类的继承关系
+}
