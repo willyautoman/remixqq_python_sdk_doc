@@ -1,7 +1,7 @@
 API
 ===
 
-.. automodule:: remix_qq_sdk
+.. automodule:: remixqq_python_sdk
    :members:
    :undoc-members:
    :show-inheritance:
