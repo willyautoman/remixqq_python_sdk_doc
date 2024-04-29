@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'RemixQQ Python SDK'
+copyright = '2024, 404_NOT_FOUND'
+author = '404_NOT_FOUND'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.0.1'
 
 # -- General configuration
 
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinx.ext.viewcode'
 ]
 
 intersphinx_mapping = {
