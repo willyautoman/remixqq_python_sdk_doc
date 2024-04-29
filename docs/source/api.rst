@@ -5,3 +5,6 @@ API
    :members:
    :undoc-members:
    :show-inheritance:
+
+   .. autoclass:: MyClass
+      :members:
